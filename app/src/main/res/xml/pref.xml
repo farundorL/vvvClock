@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <PreferenceCategory android:title="@string/action_settings">
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="1ji"
+            android:title="@string/one_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="2ji"
+            android:title="@string/two_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="3ji"
+            android:title="@string/three_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="4ji"
+            android:title="@string/four_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="5ji"
+            android:title="@string/five_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="6ji"
+            android:title="@string/six_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="7ji"
+            android:title="@string/seven_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="8ji"
+            android:title="@string/eight_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="9ji"
+            android:title="@string/nine_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="10ji"
+            android:title="@string/ten_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="11ji"
+            android:title="@string/eleven_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="12ji"
+            android:title="@string/twelve_am_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="13ji"
+            android:title="@string/one_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="14ji"
+            android:title="@string/two_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="15ji"
+            android:title="@string/three_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="16ji"
+            android:title="@string/four_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="17ji"
+            android:title="@string/five_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="18ji"
+            android:title="@string/six_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="19ji"
+            android:title="@string/seven_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="20ji"
+            android:title="@string/eight_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="21ji"
+            android:title="@string/nine_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="22ji"
+            android:title="@string/ten_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="23ji"
+            android:title="@string/eleven_pm_title" />
+        <com.farundorl.vvv_clock.CustomSwitchPreference
+            android:key="24ji"
+            android:title="@string/twelve_pm_title" />
+    </PreferenceCategory>
+    
+</PreferenceScreen>

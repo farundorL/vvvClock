@@ -1,0 +1,4 @@
+/Users/gya/AndroidStudioProjects/VVV_Clock/app/build/intermediates/classes/debug
+/Users/gya/AndroidStudioProjects/VVV_Clock/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6658c117293958a7383bcbb346a57fefebf27ee4.jar
+/Users/gya/AndroidStudioProjects/VVV_Clock/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8fbf6c081ba851c3a4b27cdf1a118609d6c01665.jar
+/Users/gya/AndroidStudioProjects/VVV_Clock/app/build/intermediates/pre-dexed/debug/classes-0565ce9497d420065eb0be2aa6193a5a4293404e.jar

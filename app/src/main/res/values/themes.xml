@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MainTheme" parent="AppBaseTheme">
+    <item name="android:windowAnimationStyle">@style/Animation.ActivityMain</item>
+</style>
+    
+    <style name="SetttingTheme" parent="AppBaseTheme">
+		<item name="android:windowAnimationStyle">@style/Animation.ActivitySetting</item> 
+    </style>
+</resources>
